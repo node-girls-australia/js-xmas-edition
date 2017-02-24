@@ -92,11 +92,11 @@ form {
 
 @media all and (max-width: 640px){
 	form {
-		width: 19em;
-		font-size: 0.75em;
+		width: 21em;
+		font-size: 1em;
 	}
 	input[type=text], textarea {
-        width:80%;
+        width:50%;
     }
     a img {
 		height: 3em;
