@@ -79,8 +79,8 @@ form {
 		width: 3em;
 	}
 
-a img:hover {
-    height: 4em;
-    width: 4em;
-}
+	a img:hover {
+   	 	height: 4em;
+    	width: 4em;
+	}
 }
