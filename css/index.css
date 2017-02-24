@@ -37,6 +37,9 @@ header{
 .hiddenWindow {
     display: none;
 }
+a {
+	padding: 10px 15px;
+}
 
 @media only screen and (max-width : 680px) {
     .on-success h1 {
@@ -46,14 +49,14 @@ header{
 
 a img {
 	position: absolute;
-	height: 8em;
-	width: 8em;
+	height: 4em;
+	width: 4em;
 	top: 4%;
 }
 
 a img:hover {
-    height: 10em;
-    width: 10.5em;
+    height: 5em;
+    width: 5em;
 }
 
 #right-image {
@@ -96,13 +99,13 @@ form {
         width:80%;
     }
     a img {
-		height: 5em;
-		width: 5em;
+		height: 3em;
+		width: 3em;
 	}
 
 a img:hover {
-    height: 7em;
-    width: 8.5em;
+    height: 4em;
+    width: 4em;
 }
 
 }
