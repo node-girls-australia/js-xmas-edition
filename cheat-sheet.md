@@ -43,7 +43,7 @@
   uses dot operator '.'  to access the properties of an object
 
 ## Bracket-notation: 
-  uses the '[]' operator to access the properties of an object
+  uses the "`[]`" operator to access the properties of an object
   
 ## Callback:
   A function that we pass inside of another function as an argument
