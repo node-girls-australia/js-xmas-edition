@@ -11,3 +11,5 @@ You can try few of these as additional exercises.
   get the images from the web based on the gift description and 
   store them
 - You could use ajax calls, get the images from flickr/google-images/instagram
+
+This is a pull request example!
