@@ -1,3 +1,5 @@
+This is a friendly pull request test!
+
 Level 2 - Local storage
 =======================
 
